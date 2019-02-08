@@ -1,0 +1,4 @@
+﻿  DotsView.cpp
+c:\users\даниел\documents\visual studio 2017\projects\dots\dots\dotsview.cpp(230): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Dots.vcxproj -> C:\Users\Даниел\documents\visual studio 2017\Projects\Dots\Debug\Dots.exe
+  Dots.vcxproj -> C:\Users\Даниел\documents\visual studio 2017\Projects\Dots\Debug\Dots.pdb (Partial PDB)
